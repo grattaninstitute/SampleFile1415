@@ -4,7 +4,7 @@ Title: Lazily Load the 2014-15 Sample File
 Description: What the package does (one paragraph).
 Authors@R: person("First", "Last", , "first.last@example.com", c("aut", "cre"))
 License: Copyright ATO
-Depends: data.table
+Depends: R (>= 3.1), data.table
 Encoding: UTF-8
 LazyData: true
 ByteCompile: true
